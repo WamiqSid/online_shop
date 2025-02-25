@@ -160,7 +160,7 @@ I faced and resolved the following networking issues:
 3. **Run the Container:**
 
    ```bash
-   docker run -d --name online-shop-app -p 9090:8080 online-shop
+   docker run -d --name online-shop-app -p 9090:80 online-shop
    ```
 
 4. **Access the Application:**
